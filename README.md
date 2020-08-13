@@ -3,23 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Readme Github</title>
     <link rel="stylesheet" href="github-markdown.css">
-
-    <style>
-        address {
-            display: flex;
-            justify-content: center;
-            align-item: center;
-        }
-
-        @media (max-width: 767px) {
-            main {
-                padding: 15px;
-            }
-        }
-    </style>
-
 </head>
 <body>
     <main>
@@ -35,7 +19,7 @@
             the
             quality of the coding. 👾</p>
         <hr>
-        <address>
+        <address align="center">
             <a href="https://www.linkedin.com/in/gabriele-mercurio/"> <img width="30px"
                     src="https://raw.githubusercontent.com/gabrielemercurio-web/gabrielemercurio-web/master/img/icon-gh-03.png"
                     alt="Linkedin-red-icon"> </a>
