@@ -22,17 +22,17 @@
         </p>
         <hr>
         <p align="center">
-            <a href="https://www.linkedin.com/in/gabriele-mercurio/">
+            <a target="_blank" href="https://www.linkedin.com/in/gabriele-mercurio/">
                     <img width="30px"
                     src="https://raw.githubusercontent.com/gabrielemercurio-web/gabrielemercurio-web/master/img/icon-gh-03.png"
                     alt="Linkedin-red-icon">
             </a>
-            <a href="https://t.me/GabrieleMercurio">
+            <a target="_blank" href="https://t.me/GabrieleMercurio">
                     <img width="30px"
                     src="https://raw.githubusercontent.com/gabrielemercurio-web/gabrielemercurio-web/master/img/icon-gh-04.png"
                     alt="Telegram-red-icon">
             </a>
-            <a href="mailto:gabrielemercurio.web@gmail.com">
+            <a target="_blank" href="mailto:gabrielemercurio.web@gmail.com">
                     <img width="30px"
                     src="https://raw.githubusercontent.com/gabrielemercurio-web/gabrielemercurio-web/master/img/icon-gh-05.png"
                     alt="Email-red-icon">
