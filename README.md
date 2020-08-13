@@ -21,7 +21,7 @@
             quality of the coding. 👾
         </p>
         <hr>
-        <div style="display:flex;!important; justify-content:center;!important;">
+        <p align="center">
             <a href="https://www.linkedin.com/in/gabriele-mercurio/">
                     <img width="30px"
                     src="https://raw.githubusercontent.com/gabrielemercurio-web/gabrielemercurio-web/master/img/icon-gh-03.png"
@@ -37,7 +37,7 @@
                     src="https://raw.githubusercontent.com/gabrielemercurio-web/gabrielemercurio-web/master/img/icon-gh-05.png"
                     alt="Email-red-icon">
             </a>
-        </div>
+        </p>
     </main>
 </body>
 </html>
