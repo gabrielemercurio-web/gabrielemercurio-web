@@ -4,7 +4,7 @@
 <p>I’m constantly stimulated by new experiences, and I really enjoy teamwork. 💪 In fact, I am convinced that a good project, at the customer's disposal, comes from the collaboration of several professionals, as well as from the quality of the coding. 👾</p>
 <hr style="height:1px;border-color:#f93b13;">
 <br>
-<address style="text-align:center;max-width:350px;margin:auto;">
+<address style="display:flex;justify-content:center;align-item:center">
 <a href="https://www.linkedin.com/in/gabriele-mercurio/"> <img width="40px" src="https://raw.githubusercontent.com/gabrielemercurio-web/gabrielemercurio-web/master/img/icon-gh-03.png" alt="Linkedin-red-icon"> </a>
 <a href="mailto:gabrielemercurio.web@gmail.com"> <img width="40px" src="https://raw.githubusercontent.com/gabrielemercurio-web/gabrielemercurio-web/master/img/icon-gh-05.png" alt="Email-red-icon"> </a>
 <a href="https://t.me/GabrieleMercurio"> <img width="40px" src="https://raw.githubusercontent.com/gabrielemercurio-web/gabrielemercurio-web/master/img/icon-gh-04.png" alt="Telegram-red-icon"> </a>
