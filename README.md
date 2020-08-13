@@ -12,14 +12,14 @@
             justify-content: center;
             align-item: center;
         }
-    
+
         @media (max-width: 767px) {
-            .markdown-body {
+            main {
                 padding: 15px;
             }
         }
     </style>
-    
+
 </head>
 <body>
     <main>
