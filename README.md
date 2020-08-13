@@ -4,8 +4,8 @@
 <p>I’m constantly stimulated by new experiences, and I really enjoy teamwork. 💪 In fact, I am convinced that a good project, at the customer's disposal, comes from the collaboration of several professionals, as well as from the quality of the coding. 👾</p>
 <hr style="height:1px; border:1px solid #f93b13">
 <br>
-<address>
-<a href="https://www.linkedin.com/in/gabriele-mercurio/"> <img src="[icon-gh-03.png](https://raw.githubusercontent.com/gabrielemercurio-web/gabrielemercurio-web/master/img/icon-gh-03.png)" alt="Linkedin-red-icon"> </a>
-<a href="mailto:gabrielemercurio.web@gmail.com"> <img src="[icon-gh-05.png](https://raw.githubusercontent.com/gabrielemercurio-web/gabrielemercurio-web/master/img/icon-gh-05.png)" alt="Email-red-icon"> </a>
-<a href="https://t.me/GabrieleMercurio"> <img src="[icon-gh-04.png](https://raw.githubusercontent.com/gabrielemercurio-web/gabrielemercurio-web/master/img/icon-gh-04.png)" alt="Telegram-red-icon"> </a>
+<address style="text-align:center; max-width:350px; margin:auto">
+<a href="https://www.linkedin.com/in/gabriele-mercurio/"> <img src="https://raw.githubusercontent.com/gabrielemercurio-web/gabrielemercurio-web/master/img/icon-gh-03.png" alt="Linkedin-red-icon"> </a>
+<a href="mailto:gabrielemercurio.web@gmail.com"> <img src="https://raw.githubusercontent.com/gabrielemercurio-web/gabrielemercurio-web/master/img/icon-gh-05.png" alt="Email-red-icon"> </a>
+<a href="https://t.me/GabrieleMercurio"> <img src="https://raw.githubusercontent.com/gabrielemercurio-web/gabrielemercurio-web/master/img/icon-gh-04.png" alt="Telegram-red-icon"> </a>
 </address>
