@@ -20,13 +20,13 @@
             quality of the coding. 👾</p>
         <hr>
         <address>
-            <a href="https://www.linkedin.com/in/gabriele-mercurio/"> <img align="center" width="30px"
+            <a href="https://www.linkedin.com/in/gabriele-mercurio/"> <img align="right" width="30px"
                     src="https://raw.githubusercontent.com/gabrielemercurio-web/gabrielemercurio-web/master/img/icon-gh-03.png"
                     alt="Linkedin-red-icon"> </a>
-            <a href="mailto:gabrielemercurio.web@gmail.com"> <img align="center" width="30px"
+            <a href="mailto:gabrielemercurio.web@gmail.com"> <img align="right" width="30px"
                     src="https://raw.githubusercontent.com/gabrielemercurio-web/gabrielemercurio-web/master/img/icon-gh-05.png"
                     alt="Email-red-icon"> </a>
-            <a href="https://t.me/GabrieleMercurio"> <img align="center" width="30px"
+            <a href="https://t.me/GabrieleMercurio"> <img align="right" width="30px"
                     src="https://raw.githubusercontent.com/gabrielemercurio-web/gabrielemercurio-web/master/img/icon-gh-04.png"
                     alt="Telegram-red-icon"> </a>
         </address>
